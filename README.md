@@ -11,7 +11,7 @@
 ## Speaker bio
 > Dawn is a Design Principal and Front-End Architect for IBM Systems business unit. Collaborating and co-creating user-focused solutions with clients and business partners, streamlining IT asset management and operation using automation and preventative maintenance.
 
-The presentations will be followed by a panel discussion.
+The presentation will be followed by a panel discussion, with other presenters.
 
 ----
 
