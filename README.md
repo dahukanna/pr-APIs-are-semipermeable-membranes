@@ -1,8 +1,8 @@
 # APIs: Semi-permeable, osmotic interfaces.
 
-[![Deliberate Complexity Conferences - Complexity and software architecure: APIs as semipermeable interfaces](https://dahukanna.github.io/pr-APIs-are-semipermeable-membranes/images/pronovix-deliberate-complexity.png)](https://pronovix.com/deliberate-complexity)
+[![Deliberate Complexity Conferences - Complexity and software architecure: APIs as semipermeable interfaces](./images/pronovix-deliberate-complexity.png)](https://pronovix.com/deliberate-complexity)
 
-**Jun 29 @ 17:00 - 19:00 CEST**
+**Jun 29 @ 17:00 - 19:30 CEST**
 
 ## Introduction
 > APIs are permeable, bi-directional, interaction boundaries between the intended High Fidelity human-centered interfaces and the interpretation into coded implementation.
@@ -13,6 +13,5 @@
 
 The presentation will be followed by a panel discussion, with other presenters.
 
-----
-
-* [Presentation](https://dahukanna.github.io/pr-APIs-are-semipermeable-membranes/files/presentation/20220629-APIs-withComments.pdf)
+## Presentation
+* [![Preenstation: APIs as semipermeable interfaces](./images/presentation.png)](./files/presentation/20220629-APIs-withComments.pdf)
